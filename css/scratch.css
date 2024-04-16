@@ -1,0 +1,20 @@
+body{ 
+    background-color: rgb(186, 210, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{ 
+    color: cornflowerblue;
+}
+.header{
+    color: rgb(51, 51, 200);
+    padding: 20px;
+}
+
+h3{
+    color: rgb(62, 62, 145);
+}
+
+a:hover{
+    font-size: 20px;
+}
